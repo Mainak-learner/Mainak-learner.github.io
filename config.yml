@@ -1,0 +1,4 @@
+title: Mainak Sarkar  # Replace with your site title
+theme: minima
+plugins:
+  - jekyll-feed  # Optional: For RSS feed support
