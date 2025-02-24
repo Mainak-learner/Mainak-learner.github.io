@@ -7,7 +7,7 @@ title: "Mainak Sarkar"
 
   <!-- Left Column -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="https://raw.githubusercontent.com/Mainak-learner/Mainak-learner.github.io/main/assets/images/my-picture.png" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/Mainak-learner/Mainak-learner.github.io/main/assets/images/my-picture.png" alt="Profile Picture" style="width: 200px; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <span>📍 College Station, TX</span>
       <br/>
