@@ -2,3 +2,11 @@ title: Mainak Sarkar  # Replace with your site title
 theme: minima
 plugins:
   - jekyll-feed  # Optional: For RSS feed support
+minima:
+  social_links:
+    - icon: github
+      url: https://github.com/Mainak-learner
+    - icon: linkedin
+      url: https://www.linkedin.com/in/mainak-sarkar-3b965b191/
+    - icon: file-pdf
+      url: /assets/cv.pdf
