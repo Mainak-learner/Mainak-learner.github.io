@@ -31,8 +31,8 @@ title: "Mainak Sarkar"
 
   <!-- Right Column -->
   <div style="flex: 2; min-width: 300px;">
-    <span>Hello there, curious explorer! 🌟  
-  A big thank you for visiting my personal portfolio. </span>
+    <span>Hello there, curious explorer!  
+  Thank you for taking a look at my portfolio. </span>
     <h2>About Me</h2>
     <p>Add your bio here. Use Markdown for formatting.</p>
     <p><a href="/projects">View my projects →</a></p>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" 
+      integrity="sha384-DyZ88mC6Up2uqS3U6IF44Xp8ZKpQ4CNYjKQcZ8CqB9DchPpfP2z76C2GgkaS3cXK" 
+      crossorigin="anonymous">
+    {{ content_for_head }}
+  </head>
+  <body class="{{ page.layout }}">
