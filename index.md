@@ -3,6 +3,22 @@ layout: home
 title: "Mainak Sarkar"
 ---
 
+<h1 style="
+  font-family: 'Arial', sans-serif; 
+  font-size: 2em; 
+  color: #4CAF50; 
+  text-align: center; 
+  padding: 10px; 
+  background: #f4f4f4; 
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  width: fit-content;
+  margin: 20px auto;
+">
+  Hello there, curious explorer! 🌟  
+  A big thank you for visiting my personal portfolio.
+</h1>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- Left Column -->
