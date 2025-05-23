@@ -9,7 +9,7 @@ title: "Mainak Sarkar"
 
   <!-- Left Column -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="https://raw.githubusercontent.com/Mainak-learner/Mainak-learner.github.io/main/assets/images/my-picture.png" alt="Profile Picture" style="width: 200px; border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/Mainak-learner/Mainak-learner.github.io/main/assets/images/image-mainak-1.png" alt="Profile Picture" style="width: 200px; border-radius: 50%;">
     <div style="margin-top: 10px;">
       <br/>
       <br/>
@@ -33,7 +33,7 @@ title: "Mainak Sarkar"
     <span>Hello there, curious explorer!  
   Thank you for taking a look at my portfolio. </span>
     <h2>About Me</h2>
-    <p>Add your bio here. Use Markdown for formatting.</p>
+    <p> I am a second-year Ph.D. student at the Department of Computer Science and Engineering, Texas A&M University. My research goal is to create new algorithms and tools, that would enable full-scale autonomy in robotic systems that will undeniably serve as aid humans in their everyday lives. To work towards realizing my research goal, I am actively pursuing research at the intersection of Robotics, Computer Vision, and Machine Learning, under <a href="https://suryanshkumar.github.io/">Dr. Suryansh Kumar</a></p>.
     <p><a href="/projects">View my projects →</a></p>
   </div>
 
