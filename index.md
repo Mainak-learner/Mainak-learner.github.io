@@ -33,7 +33,9 @@ title: "Mainak Sarkar"
     <span>Hello there, curious explorer!  
   Thank you for taking a look at my portfolio. </span>
     <h2>About Me</h2>
-    <p> I am a second-year Ph.D. student at the Department of Computer Science and Engineering, Texas A&M University. My research goal is to create new algorithms and tools, that would enable full-scale autonomy in robotic systems that will undeniably serve as aid humans in their everyday lives. To work towards realizing my research goal, I am actively pursuing research at the intersection of Robotics, Computer Vision, and Machine Learning, under <a href="https://suryanshkumar.github.io/">Dr. Suryansh Kumar</a></p>.
+    <p> I am a second-year Ph.D. student at the Department of Computer Science and Engineering, Texas A&M University. My research goal is to create new algorithms and tools, that would enable full-scale autonomy in robotic systems assisting humans in their everyday lives. To work towards realizing my research goal, I am actively pursuing research at the intersection of Robotics, Computer Vision, and Machine Learning, under <a href="https://suryanshkumar.github.io/">Dr. Suryansh Kumar</a>.</p>
+
+    <p>Previously, I had obtained my Master's degree in Machine Learning from the Department of Electrical and Computer Engineering, UC San Diego.</p>
     <p><a href="/projects">View my projects →</a></p>
   </div>
 
